@@ -1,1 +1,5 @@
-Hellow everyone\\\
+#include<stdio.h>
+ void main
+{
+  printf("hellow word");
+}
